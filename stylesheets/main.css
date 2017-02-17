@@ -16,7 +16,7 @@ h2{
 }
 
 #blogm{
-margin-top: 91px;	
+margin-top: 100px;	
 }
 
 
@@ -111,7 +111,7 @@ display: block;
     margin-top: 4.5%;
     font-size: 15px;
 }
-.mentors .avatar, #contributors-list .avatar, .students-sec .avatar, .projects-sec .avatar, .stprojects-sec .avatar {
+.mentors .avatar, #contributors-list .avatar, .students-sec .avatar, .projects-sec .avatar, .blog-sec .avatar, .stprojects-sec .avatar {
     position: relative;
     width: 200px;
     height: 200px;
